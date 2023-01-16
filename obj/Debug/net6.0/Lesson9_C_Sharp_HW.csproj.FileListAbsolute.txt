@@ -1,0 +1,15 @@
+E:\Lesson9_C_Sharp_HW\bin\Debug\net6.0\Lesson9_C_Sharp_HW.exe
+E:\Lesson9_C_Sharp_HW\bin\Debug\net6.0\Lesson9_C_Sharp_HW.deps.json
+E:\Lesson9_C_Sharp_HW\bin\Debug\net6.0\Lesson9_C_Sharp_HW.runtimeconfig.json
+E:\Lesson9_C_Sharp_HW\bin\Debug\net6.0\Lesson9_C_Sharp_HW.dll
+E:\Lesson9_C_Sharp_HW\bin\Debug\net6.0\Lesson9_C_Sharp_HW.pdb
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\Lesson9_C_Sharp_HW.csproj.AssemblyReference.cache
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\Lesson9_C_Sharp_HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\Lesson9_C_Sharp_HW.AssemblyInfoInputs.cache
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\Lesson9_C_Sharp_HW.AssemblyInfo.cs
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\Lesson9_C_Sharp_HW.csproj.CoreCompileInputs.cache
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\Lesson9_C_Sharp_HW.dll
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\refint\Lesson9_C_Sharp_HW.dll
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\Lesson9_C_Sharp_HW.pdb
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\Lesson9_C_Sharp_HW.genruntimeconfig.cache
+E:\Lesson9_C_Sharp_HW\obj\Debug\net6.0\ref\Lesson9_C_Sharp_HW.dll
